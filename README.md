@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+itscharlieliu/README.md
+👋 Hi, I’m @faruq
+👀 I’m interested in Full Stack Development
+🔭 I’m currently working on a TODO List App
+🌱 I’m currently learning React and Django
+💞️ I’m looking to collaborate on any personal projects
+
 <!--
 **Faruqt/Faruqt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
