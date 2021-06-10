@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-itscharlieliu/README.md
 👋 Hi, I’m @faruq
 👀 I’m interested in Full Stack Development
 🔭 I’m currently working on a TODO List App
