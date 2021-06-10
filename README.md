@@ -1,9 +1,12 @@
 ### Hi there 👋
 
-👋 Hi, I’m @faruq
-👀 I’m interested in Full Stack Development
-🔭 I’m currently working on a TODO List App
-🌱 I’m currently learning React and Django
+<ul>
+<li>👋 Hi, I’m @faruq</li>
+<li>👀 I’m interested in Full Stack Development</li>
+<li>🔭 I’m currently working on a TODO List App</li>
+<li>🌱 I’m currently learning React and Django</li>
+
+</ul>
 
 
 <!--
