@@ -3,9 +3,9 @@
 <ul>
 <li>👋 Hi, I’m @faruq</li>
 <li>👀 I’m interested in Full Stack Development</li>
-<li>🔭 I’m currently working on a TODO List App</li>
+<li>🔭 I’m currently working on a Music Web App</li>
 <li>👯 I’m looking to collaborate on python projects...</li>
-<li>🌱 I’m currently learning React and Django</li>
+<li>🌱 I’m currently learning Django and Django Rest Framework</li>
 
 </ul>
 
