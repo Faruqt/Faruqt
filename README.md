@@ -41,7 +41,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week &v=2
-```
+No Activity tracked this Week 
+&v=2```
 <!--END_SECTION:waka-->
 
