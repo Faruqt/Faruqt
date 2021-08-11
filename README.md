@@ -1,7 +1,8 @@
 ###
-<h2> Hello World 👋, I'm Faruq! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2> Hello World 👋, I'm Faruq! </h2>
 
-A fullstack software engineer.
+A fullstack software engineer <img src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47hb12laxld7yum97n4t13k9vbcn4cfgg77hbss6aj&rid=giphy.gif&ct=g" width="50">
+
 - 🔭 Working on multiple frontend and backend project using Python and Javascript
 - 🌱 I’m currently learning Django and Django Rest Framework
 - 👯 I’m looking to collaborate on python projects...
