@@ -1,9 +1,10 @@
 ###
-<h2> Hello World 👋, I am Faruq! </h2>
+<h2> (こんにちは  世界) Hello World <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"></h2>
+<h2> I am Faruq! :blush: </h2>
 
 A fullstack software engineer <img src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47hb12laxld7yum97n4t13k9vbcn4cfgg77hbss6aj&rid=giphy.gif&ct=g" width="50">
 
-- 🔭 Working on multiple frontend and backend projecta using Python and Javascript
+- 🔭 Working on multiple frontend and backend projects using Python and Javascript
 - 🌱 I’m currently learning Django and Django Rest Framework
 - 👯 I’m looking to collaborate on python projects...
 <br>
