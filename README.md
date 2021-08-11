@@ -1,5 +1,7 @@
-### Hello World 👋
-I am Faruq, a fullstack software engineer.
+###
+<h2> Hello World 👋, I'm Faruq! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+
+A fullstack software engineer.
 - 🔭 Working on multiple frontend and backend project using Python and Javascript
 - 🌱 I’m currently learning Django and Django Rest Framework
 - 👯 I’m looking to collaborate on python projects...
