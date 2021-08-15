@@ -5,7 +5,7 @@
    A fullstack software engineer <img src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47hb12laxld7yum97n4t13k9vbcn4cfgg77hbss6aj&rid=giphy.gif&ct=g" width="50">
 
 - 🔭 Working on multiple frontend and backend projects using Python and Javascript
-- 🌱 I’m currently learning Django and Django Rest Framework
+- 🌱 I’m currently learning GO
 - 👯 I’m looking to collaborate on python projects...
 <br>
 
