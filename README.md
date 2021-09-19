@@ -30,12 +30,14 @@
 <img  alt="django rest framework" src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray"/>
 
 </p>
+## :📝: Blogs:
+[![Blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white=https://dev.to/faruqt)](https://dev.to/faruqt)
+[![Blog](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=small&logoColor=white=https://medium.com/@faruqabdulsalam)](https://medium.com/@faruqabdulsalam)
 
 ## :heart: Let's get connected:
 [![Twitter Follow](https://img.shields.io/twitter/follow/_Ace_II?label=Follow)](https://twitter.com/intent/follow?screen_name=_Ace_II)
 [![Linkedin: Faruq](https://img.shields.io/badge/-faruq-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/faruq-abdulsalam-b2847b160)](https://www.linkedin.com/in/faruq-abdulsalam-b2847b160)
-[![Blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white=https://dev.to/faruqt)](https://dev.to/faruqt)
-[![Blog](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=small&logoColor=white=https://medium.com/@faruqabdulsalam)](https://medium.com/@faruqabdulsalam)
+
 
 <br>
 <br>
