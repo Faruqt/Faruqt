@@ -6,7 +6,7 @@
 
 - 🔭 Working on multiple frontend and backend projects using Python, Golang and Javascript
 - 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate on python and Golang projects...
+- 👯 I’m looking to collaborate on Python and Golang projects...
 <br>
 
 
