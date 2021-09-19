@@ -35,6 +35,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/_Ace_II?label=Follow)](https://twitter.com/intent/follow?screen_name=_Ace_II)
 [![Linkedin: Faruq](https://img.shields.io/badge/-faruq-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/faruq-abdulsalam-b2847b160)](https://www.linkedin.com/in/faruq-abdulsalam-b2847b160)
 [![Blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white=https://dev.to/faruqt)](https://dev.to/faruqt)
+[![Blog](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white=https://medium.com/@faruqabdulsalam)](https://medium.com/@faruqabdulsalam)
 ![](https://visitor-badge.glitch.me/badge?page_id=faruqt.faruqt)
 
 <br>
