@@ -27,8 +27,6 @@
 
 <img alt="heroku" src="https://github-readme-stats.vercel.app/api?username=Faruqt&theme=blue-green"/>
 
-   
-
 <img  alt="drf" src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray"/>
 
 </p>
@@ -36,6 +34,7 @@
 ## :heart: Let's get connected:
 [![Twitter Follow](https://img.shields.io/twitter/follow/_Ace_II?label=Follow)](https://twitter.com/intent/follow?screen_name=_Ace_II)
 [![Linkedin: Faruq](https://img.shields.io/badge/-faruq-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/faruq-abdulsalam-b2847b160)](https://www.linkedin.com/in/faruq-abdulsalam-b2847b160)
+[![Blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white=https://dev.to/faruqt)](https://dev.to/faruqt)
 ![](https://visitor-badge.glitch.me/badge?page_id=faruqt.faruqt)
 
 <br>
