@@ -24,9 +24,7 @@
 <img alt="postgred" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
 <img alt="heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
-
-<img alt="heroku" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faruqt&theme=blue-green"/>
-
+   
 <img  alt="drf" src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray"/>
 
 </p>
