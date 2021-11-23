@@ -2,8 +2,9 @@
 <h2 align="center"> (こんにちは  世界) Hello World <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"></h2>
 <h2 align="center"> I am Faruq! :blush: </h2>
 
-   A fullstack software engineer <img src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47hb12laxld7yum97n4t13k9vbcn4cfgg77hbss6aj&rid=giphy.gif&ct=g" width="50">
-
+- A fullstack software engineer <img src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47hb12laxld7yum97n4t13k9vbcn4cfgg77hbss6aj&rid=giphy.gif&ct=g" width="50">
+- ✍️Technical Blogger at <a href="https://nagatodev.hashnode.dev/" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/-Personal%20Blog-add8e6?&style=flat-square" /></a><a href="https://dev.to/faruqt" target="_blank"><img alt="Dev.to" src="https://img.shields.io/badge/-Dev.To-0A0A0A?&style=flat-square&logo=dev.to&logoColor=white" /></a>
+<a href="https://medium.com/@faruqabdulsalam" target="_blank"><img alt="Dev.to" src="https://img.shields.io/badge/-Medium-0A0A0A?&style=flat-square&logo=medium&logoColor=white" /></a>
 - 🔭 Working on multiple frontend and backend projects using Python, Golang, Javascript and React
 - 🌱 I’m currently learning React-Redux
 - 👯 I’m looking to collaborate on Python and Golang projects...
@@ -43,8 +44,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/_Ace_II?label=Follow)](https://twitter.com/intent/follow?screen_name=_Ace_II)
 [![Linkedin: Faruq](https://img.shields.io/badge/-faruq-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/faruq-abdulsalam-b2847b160)](https://www.linkedin.com/in/faruq-abdulsalam-b2847b160)
 
-<br>
-<br>
+## 🚀  Most used languages:
 
 <!--START_SECTION:waka-->
 ```text
