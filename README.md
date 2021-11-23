@@ -8,6 +8,7 @@
 - 🔭 Working on multiple frontend and backend projects using Python, Golang, Javascript and React
 - 🌱 I’m currently learning React-Redux
 - 👯 I’m looking to collaborate on Python and Golang projects...
+- 📫  How to reach me: @gautamkrishnar or
 <br>
 
 
@@ -36,9 +37,9 @@
 
 </p>
 
-## 📝  Blogs:
-[![Blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white=https://dev.to/faruqt)](https://dev.to/faruqt)
-[![Blog](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=small&logoColor=white=https://medium.com/@faruqabdulsalam)](https://medium.com/@faruqabdulsalam)
+## 📝  Check out my latest blog posts:
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ## :heart: Let's get connected:
 [![Twitter Follow](https://img.shields.io/twitter/follow/_Ace_II?label=Follow)](https://twitter.com/intent/follow?screen_name=_Ace_II)
