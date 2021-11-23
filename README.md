@@ -8,7 +8,7 @@
 - 🔭 Working on multiple frontend and backend projects using Python, Golang, Javascript and React
 - 🌱 I’m currently learning React-Redux
 - 👯 I’m looking to collaborate on Python and Golang projects...
-- 📫  How to reach me: @gautamkrishnar or
+- 📫  How to reach me: [@faruqabdulsalam](www.linkedin.com/in/faruq-abdulsalam-b2847b160) or <a rel="me" href="https://twitter.com/_ACE_II">Ace</a>
 <br>
 
 
@@ -45,7 +45,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/_Ace_II?label=Follow)](https://twitter.com/intent/follow?screen_name=_Ace_II)
 [![Linkedin: Faruq](https://img.shields.io/badge/-faruq-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/faruq-abdulsalam-b2847b160)](https://www.linkedin.com/in/faruq-abdulsalam-b2847b160)
 
-## 🚀  Most used languages:
+## 📊  This week I spent my time on:
 
 <!--START_SECTION:waka-->
 ```text
