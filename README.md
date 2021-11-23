@@ -1,6 +1,6 @@
 ###
-<h2 align="center"> (こんにちは  世界) Hello World <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"></h2>
-<h2 align="center"> I am Faruq! :blush: </h2>
+<h3 align="center"> (こんにちは  世界) Hello World <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"></h2>
+<h3 align="center"> I am Faruq! :blush: </h2>
 
 - A fullstack software engineer <img src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47hb12laxld7yum97n4t13k9vbcn4cfgg77hbss6aj&rid=giphy.gif&ct=g" width="50">
 - ✍️Technical Blogger at <a href="https://nagatodev.hashnode.dev/" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/-Personal%20Blog-add8e6?&style=flat-square" /></a><a href="https://dev.to/faruqt" target="_blank"><img alt="Dev.to" src="https://img.shields.io/badge/-Dev.To-0A0A0A?&style=flat-square&logo=dev.to&logoColor=white" /></a>
@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on Python and Golang projects...
 - 📫  How to reach me: [@faruqabdulsalam](https://www.linkedin.com/in/faruq-abdulsalam-b2847b160) or <a rel="me" href="https://twitter.com/_ACE_II">Ace</a>
 
-## :hammer_and_wrench: Technologies and Tools I use:
+### :hammer_and_wrench: Technologies and Tools I use:
 
 <p align="left">
 <img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -37,7 +37,7 @@
    
 </p>
 
-## 📝  Check out my latest blog posts:
+### 📝  Check out my latest blog posts:
 <!-- BLOG:START -->
 - [Adding authentication to a Flask application](https://dev.to/faruqt/adding-authentication-to-a-flask-application-53ep)
 - [Building a Todo List Application with Flask](https://dev.to/faruqt/building-a-todo-list-application-with-flask-fcj)
@@ -46,11 +46,11 @@
 - [Building a REST API with Django REST Framework](https://dev.to/faruqt/how-to-connect-django-to-reactjs-part-2-2oje)
 <!-- BLOG:END -->
 
-## :heart: Let's get connected:
+### :heart: Let's get connected:
 [![Twitter Follow](https://img.shields.io/twitter/follow/_Ace_II?label=Follow)](https://twitter.com/intent/follow?screen_name=_Ace_II)
 [![Linkedin: Faruq](https://img.shields.io/badge/-faruq-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/faruq-abdulsalam-b2847b160)](https://www.linkedin.com/in/faruq-abdulsalam-b2847b160)
 
-## 📊  This week I spent my time on:
+### 📊  This week I spent my time on:
 
 <!--START_SECTION:waka-->
 ```text
