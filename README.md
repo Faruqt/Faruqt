@@ -39,6 +39,11 @@
 
 ## 📝  Check out my latest blog posts:
 <!-- BLOG:START -->
+- [Adding authentication to a Flask application](https://dev.to/faruqt/adding-authentication-to-a-flask-application-53ep)
+- [Building a Todo List Application with Flask](https://dev.to/faruqt/building-a-todo-list-application-with-flask-fcj)
+- [Getting started with Flask](https://dev.to/faruqt/getting-started-with-flask-1kn1)
+- [Consuming a REST API in React with Axios](https://dev.to/faruqt/consuming-rest-api-in-react-with-axios-7j3)
+- [Building a REST API with Django REST Framework](https://dev.to/faruqt/how-to-connect-django-to-reactjs-part-2-2oje)
 <!-- BLOG:END -->
 
 ## :heart: Let's get connected:
