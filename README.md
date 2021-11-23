@@ -8,7 +8,7 @@
 - 🔭 Working on multiple frontend and backend projects using Python, Golang, Javascript and React
 - 🌱 I’m currently learning React-Redux
 - 👯 I’m looking to collaborate on Python and Golang projects...
-- 📫  How to reach me: [@faruqabdulsalam](www.linkedin.com/in/faruq-abdulsalam-b2847b160) or <a rel="me" href="https://twitter.com/_ACE_II">Ace</a>
+- 📫  How to reach me: [@faruqabdulsalam](https://www.linkedin.com/in/faruq-abdulsalam-b2847b160) or <a rel="me" href="https://twitter.com/_ACE_II">Ace</a>
 <br>
 
 
