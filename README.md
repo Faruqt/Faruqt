@@ -39,11 +39,11 @@
 
 ### 📝  Check out my latest blog posts:
 <!-- BLOG:START -->
+- [How to add login authentication to a Flask and React application.](https://dev.to/nagatodev/how-to-add-login-authentication-to-a-flask-and-react-application-23i7)
 - [How to connect Flask to ReactJs](https://dev.to/nagatodev/how-to-connect-flask-to-reactjs-1k8i)
 - [Uploading media files to your Flask application](https://dev.to/nagatodev/uploading-media-files-to-your-flask-application-5h9k)
 - [Adding authentication to a Flask application](https://dev.to/nagatodev/adding-authentication-to-a-flask-application-53ep)
 - [Building a Todo List Application with Flask](https://dev.to/nagatodev/building-a-todo-list-application-with-flask-fcj)
-- [Getting started with Flask](https://dev.to/nagatodev/getting-started-with-flask-1kn1)
 <!-- BLOG:END -->
 
 ### :heart: Let's get connected:
