@@ -6,7 +6,7 @@
 - ✍️Technical Blogger at <a href="https://nagatodev.hashnode.dev/" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/-Personal%20Blog-add8e6?&style=flat-square" /></a><a href="https://dev.to/faruqt" target="_blank"><img alt="Dev.to" src="https://img.shields.io/badge/-Dev.To-0A0A0A?&style=flat-square&logo=dev.to&logoColor=white" /></a>
 <a href="https://medium.com/@faruqabdulsalam" target="_blank"><img alt="Dev.to" src="https://img.shields.io/badge/-Medium-0A0A0A?&style=flat-square&logo=medium&logoColor=white" /></a>
 - 🔭 Working on multiple frontend and backend projects using Python, Golang, Javascript and React
-- 🌱 I’m currently building a social media application (A community for all anime lovers 😁) 
+- 🌱 I’m currently building a social media application 😁 
 - 👯 I’m looking to collaborate on Python and Golang projects...
 - 📫  How to reach me: [@faruqabdulsalam](https://www.linkedin.com/in/faruq-abdulsalam-b2847b160) or <a rel="me" href="https://twitter.com/_ACE_II">Ace</a>
 
