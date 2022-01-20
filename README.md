@@ -8,7 +8,7 @@
 - 🔭 Working on multiple frontend and backend projects using Python, Golang, Javascript and React
 - 🌱 I’m currently building a social media application 😁 
 - 👯 I’m looking to collaborate on Python and Golang projects...
-- 📫  How to reach me: [@faruqabdulsalam](https://www.linkedin.com/in/faruq-abdulsalam-b2847b160) or <a rel="me" href="https://twitter.com/_ACE_II">Ace</a>
+- 📫  How to reach me: [@faruqabdulsalam](https://www.linkedin.com/in/faruq-abdulsalam) or <a rel="me" href="https://twitter.com/_ACE_II">Ace</a>
 
 ### :hammer_and_wrench: Technologies and Tools I use:
 
@@ -48,7 +48,7 @@
 
 ### :heart: Let's get connected:
 [![Twitter Follow](https://img.shields.io/twitter/follow/_Ace_II?label=Follow)](https://twitter.com/intent/follow?screen_name=_Ace_II)
-[![Linkedin: Faruq](https://img.shields.io/badge/-faruq-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/faruq-abdulsalam-b2847b160)](https://www.linkedin.com/in/faruq-abdulsalam-b2847b160)
+[![Linkedin: Faruq](https://img.shields.io/badge/-faruq-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/faruq-abdulsalam-b2847b160)](https://www.linkedin.com/in/faruq-abdulsalam)
 
 ### 📊  This week I spent my time on:
 
