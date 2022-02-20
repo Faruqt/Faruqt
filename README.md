@@ -54,8 +54,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Total: 16 hrs 22 mins
-
 Python       9 hrs 48 mins   ███████████████░░░░░░░░░░   59.90 % 
 JavaScript   5 hrs 16 mins   ████████░░░░░░░░░░░░░░░░░   32.26 % 
 CSS          1 hr 14 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
