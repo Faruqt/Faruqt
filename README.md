@@ -5,9 +5,9 @@
 - A fullstack software developer <img src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47hb12laxld7yum97n4t13k9vbcn4cfgg77hbss6aj&rid=giphy.gif&ct=g" width="50">
 - ✍️Technical Blogger at <a href="https://nagatodev.hashnode.dev/" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/-Personal%20Blog-add8e6?&style=flat-square" /></a><a href="https://dev.to/faruqt" target="_blank"><img alt="Dev.to" src="https://img.shields.io/badge/-Dev.To-0A0A0A?&style=flat-square&logo=dev.to&logoColor=white" /></a>
 <a href="https://medium.com/@faruqabdulsalam" target="_blank"><img alt="Dev.to" src="https://img.shields.io/badge/-Medium-0A0A0A?&style=flat-square&logo=medium&logoColor=white" /></a>
-- 🔭 Working on multiple frontend and backend projects using Python, Golang, Javascript, React, and Next.js
+- 🔭 Working on multiple frontend and backend projects using Django, FLask, Node.js, React, and Next.js
 - 🌱 I’m currently building a social media application 😁 
-- 👯 I’m looking to collaborate on Python and Golang projects...
+- 👯 I’m looking to collaborate on Python and Javascript projects...
 - 📫  How to reach me: [@faruqabdulsalam](https://www.linkedin.com/in/faruq-abdulsalam) or <a rel="me" href="https://twitter.com/_ACE_II">Ace</a>
 
 ### :hammer_and_wrench: Technologies and Tools I use:
@@ -24,13 +24,17 @@
 <img alt="next" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 
 <img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<img alt="javascript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
    
 <img alt="chartJs" src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
 
 <img alt="golang" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
 
 <img alt="postgres" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
+  
+<img alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+   
 <img  alt="django rest framework" src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray"/>
    
 <img alt="docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
