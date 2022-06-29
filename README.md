@@ -58,18 +58,5 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/_Ace_II?label=Follow)](https://twitter.com/intent/follow?screen_name=_Ace_II)
 [![Linkedin: Faruq](https://img.shields.io/badge/-faruq-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/faruq-abdulsalam-b2847b160)](https://www.linkedin.com/in/faruq-abdulsalam)
 
-### 📊  This week I spent my time on:
 
-<!--START_SECTION:waka-->
-
-```text
-Python       24 hrs 3 mins   ██████████████▓░░░░░░░░░░   58.10 %
-TypeScript   10 hrs 54 mins  ██████▓░░░░░░░░░░░░░░░░░░   26.33 %
-HTML         2 hrs 18 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.57 %
-Markdown     1 hr 38 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
-JSON         49 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
-Other        43 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
-```
-
-<!--END_SECTION:waka-->
 
