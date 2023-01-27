@@ -55,7 +55,6 @@
 <!-- BLOG:END -->
 
 ### :heart: Let's get connected:
-[![Twitter Follow](https://img.shields.io/twitter/follow/_Ace_II?label=Follow)](https://twitter.com/intent/follow?screen_name=_Ace_II)
 [![Linkedin: Faruq](https://img.shields.io/badge/-faruq-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/faruq-abdulsalam-b2847b160)](https://www.linkedin.com/in/faruq-abdulsalam)
 
 
