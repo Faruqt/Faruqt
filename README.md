@@ -47,11 +47,11 @@
 
 ### 📝  Check out my latest blog posts:
 <!-- BLOG:START -->
+- [Local Development with AWS Services: A Hands-On Journey with LocalStack](https://dev.to/nagatodev/local-development-with-aws-services-a-hands-on-journey-with-localstack-1jgl)
 - [How to Integrate Next-Auth with Your Next.js Application](https://dev.to/nagatodev/how-to-integrate-next-auth-with-your-nextjs-application-4mn9)
 - [How to add login authentication to a Flask and React application.](https://dev.to/nagatodev/how-to-add-login-authentication-to-a-flask-and-react-application-23i7)
 - [How to connect Flask to ReactJs](https://dev.to/nagatodev/how-to-connect-flask-to-reactjs-1k8i)
 - [Uploading media files to your Flask application](https://dev.to/nagatodev/uploading-media-files-to-your-flask-application-5h9k)
-- [Adding authentication to a Flask application](https://dev.to/nagatodev/adding-authentication-to-a-flask-application-53ep)
 <!-- BLOG:END -->
 
 ### :heart: Let's get connected:
