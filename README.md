@@ -47,11 +47,11 @@
 
 ### 📝  Check out my latest blog posts:
 <!-- BLOG:START -->
+- [How to Build and Test a PDF Generator Lambda Using LocalStack on Your Local Machine &lpar;Part 2: Using Terraform&rpar;](https://dev.to/nagatodev/how-to-build-and-test-a-pdf-generator-lambda-using-localstack-on-your-local-machine-part-2-using-22fc)
 - [How to Build and Test a PDF Generator Lambda Using LocalStack on Your Local Machine](https://dev.to/nagatodev/how-to-build-and-test-a-pdf-generator-lambda-using-localstack-on-your-local-machine-53md)
 - [How to Simulate AWS S3 on Your Local Machine with LocalStack](https://dev.to/nagatodev/how-to-simulate-aws-s3-on-your-local-machine-with-localstack-53dl)
 - [Simplifying Local AWS Development with LocalStack](https://dev.to/nagatodev/local-development-with-aws-services-a-hands-on-journey-with-localstack-1jgl)
 - [How to Integrate Next-Auth with Your Next.js Application](https://dev.to/nagatodev/how-to-integrate-next-auth-with-your-nextjs-application-4mn9)
-- [How to add login authentication to a Flask and React application.](https://dev.to/nagatodev/how-to-add-login-authentication-to-a-flask-and-react-application-23i7)
 <!-- BLOG:END -->
 
 ### :heart: Let's get connected:
