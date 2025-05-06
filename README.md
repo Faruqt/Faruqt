@@ -5,9 +5,9 @@
 - A fullstack software developer <img src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47hb12laxld7yum97n4t13k9vbcn4cfgg77hbss6aj&rid=giphy.gif&ct=g" width="50">
 - ✍️Technical Blogger at <a href="https://nagatodev.hashnode.dev/" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/-Personal%20Blog-add8e6?&style=flat-square" /></a><a href="https://dev.to/faruqt" target="_blank"><img alt="Dev.to" src="https://img.shields.io/badge/-Dev.To-0A0A0A?&style=flat-square&logo=dev.to&logoColor=white" /></a>
 <a href="https://medium.com/@faruqabdulsalam" target="_blank"><img alt="Dev.to" src="https://img.shields.io/badge/-Medium-0A0A0A?&style=flat-square&logo=medium&logoColor=white" /></a>
-- 🔭 Working on multiple frontend and backend projects using Django, Flask, React, and Next.js
+- 🔭 Working on multiple frontend and backend projects using Django, Flask, Node.js, React, and Next.js
 - 🌱 I’m currently building an employee management system using NextJs + Typescript for the frontend and Flask + AWS for the backend 😁 
-- 👯 I’m looking to collaborate on Python and Javascript projects...
+- 👯 I’m looking to collaborate on Python, JavaScript, and TypeScript projects...
 - 📫  How to reach me: [@faruqabdulsalam](https://www.linkedin.com/in/faruq-abdulsalam) or <a rel="me" href="https://twitter.com/_ACE_II">Ace</a>
 
 ### :hammer_and_wrench: Technologies and Tools I use:
