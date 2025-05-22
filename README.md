@@ -6,7 +6,7 @@
 - ✍️Technical Blogger at <a href="https://nagatodev.hashnode.dev/" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/-Personal%20Blog-add8e6?&style=flat-square" /></a><a href="https://dev.to/faruqt" target="_blank"><img alt="Dev.to" src="https://img.shields.io/badge/-Dev.To-0A0A0A?&style=flat-square&logo=dev.to&logoColor=white" /></a>
 <a href="https://medium.com/@faruqabdulsalam" target="_blank"><img alt="Dev.to" src="https://img.shields.io/badge/-Medium-0A0A0A?&style=flat-square&logo=medium&logoColor=white" /></a>
 - 🔭 Working on multiple frontend and backend projects using Django, Flask, Node.js, React, and Next.js
-- 🌱 I’m currently building an employee management system using Next.js + TypeScript for the frontend, and NestJS for the backend, with AWS + Terraform for the cloud 😁 
+- 🌱 I’m currently building an employee management system using Next.js + TypeScript for the frontend, and Flask for the backend, with AWS + Terraform for the cloud 😁 
 - 👯 I’m looking to collaborate on Python, JavaScript, and TypeScript projects...
 - 📫  How to reach me: [@faruqabdulsalam](https://www.linkedin.com/in/faruq-abdulsalam) or <a rel="me" href="https://twitter.com/_ACE_II">Ace</a>
 
